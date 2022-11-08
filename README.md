@@ -46,3 +46,6 @@ APEXの知識を深めたい時に何から調べていいかわからない
 　本番リリース：11/18
 ■その他
 動画はYoutubeを想定して実装。
+
+■画面遷移図
+https://www.figma.com/file/Ssqkpi5hM6xWJucx2WNjf7/apex_serch?node-id=43%3A358
